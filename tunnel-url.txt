@@ -1,1 +1,1 @@
-https://connected-eggs-shopper-shoot.trycloudflare.com
+https://api.trycloudflare.com
