@@ -1,1 +1,1 @@
-https://posted-sun-known-senate.trycloudflare.com
+https://api.trycloudflare.com
