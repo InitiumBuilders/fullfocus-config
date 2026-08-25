@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://painted-forecast-curtis-flat.trycloudflare.com
