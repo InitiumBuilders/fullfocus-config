@@ -1,1 +1,1 @@
-https://cherry-strength-drawing-tension.trycloudflare.com
+https://api.trycloudflare.com
