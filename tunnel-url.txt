@@ -1,1 +1,1 @@
-https://epinions-voip-caution-gather.trycloudflare.com
+https://api.trycloudflare.com
