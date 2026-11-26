@@ -1,1 +1,1 @@
-https://extremely-wayne-galleries-gis.trycloudflare.com
+https://api.trycloudflare.com
